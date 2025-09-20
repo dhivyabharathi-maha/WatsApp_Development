@@ -1,4 +1,4 @@
-main
+asss new leraning main
 method
 method1
 method2
@@ -9,3 +9,4 @@ add game playing toys feature
 add text styles feature
 add hair style feature
 close
+
